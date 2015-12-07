@@ -12,7 +12,7 @@ il faut synchroniser la HashMap
 /*
 Pour UDP, putty ne marche pas pour les test, il faut creer un client UDP
 */
-package TP1_BANQUE;
+package socket_banque_java;
 
 import java.util.*;
 import java.net.*;
